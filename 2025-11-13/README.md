@@ -19,3 +19,9 @@
 - LeetCode: [hello](https://leetcode.com/problems/hello/)
 - Status: ❌ Not Solved
 
+## hello1
+- Date: 2025-11-13
+- Language: py
+- LeetCode: [hello1](https://leetcode.com/problems/hello1/)
+- Status: ❌ Not Solved
+
