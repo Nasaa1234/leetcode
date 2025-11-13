@@ -25,3 +25,9 @@
 - LeetCode: [hello1](https://leetcode.com/problems/hello1/)
 - Status: ❌ Not Solved
 
+## Maximum Number of Operations to Move Ones to the End
+- Date: 2025-11-13
+- Language: js
+- LeetCode: [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/)
+- Status: ❌ Not Solved
+
