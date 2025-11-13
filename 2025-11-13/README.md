@@ -1,12 +1,8 @@
-# LeetCode Problems - 2025-11-13
+# LeetCode Problems
 
-## Power Grid Maintenance
+## done
 - Date: 2025-11-13
-- Language: py
-- LeetCode: [Power Grid Maintenance](https://leetcode.com/problemset/all/?search=Power%20Grid%20Maintenance)
-
-## Power Grid Maintenance
-- Date: 2025-11-13
-- Language: py
-- LeetCode: [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/)
+- Language: java
+- LeetCode: [done](https://leetcode.com/problems/done/)
+- Status: ❌ Not Solved
 
