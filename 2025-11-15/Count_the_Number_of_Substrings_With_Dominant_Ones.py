@@ -4,6 +4,14 @@
 # Language: Python
 # =====================================
 
+'''
+==============================
+        DESCRIPTION
+==============================
+
+
+'''
+
 def main():
     print("Solving: Count the Number of Substrings With Dominant Ones")
 
