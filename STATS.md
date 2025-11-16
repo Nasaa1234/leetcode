@@ -2,7 +2,7 @@
 
 - Total Solved:        6
 - Total Attempted:        1
-- Total Not Solved:        0
+- Total Not Solved:        2
 
 ### 🟦 Status
 
@@ -12,6 +12,8 @@
 | Next Permutation |  | 2025-11-13 |
 | Maximum Number of Operations to Move Ones to the End |  | 2025-11-13 |
 | Increment Submatrices by One | ✅ Solved | 2025-11-14 |
+| Count the Number of Substrings With Dominant Ones |  | 2025-11-15 |
+| Number of Substrings With Only 1s | ❌ Not Solved | 2025-11-16 |
 | Minimum Number of Operations to Make All Array Elements Equal to 1 | ⚠️ Attempted | Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1 |
 | String to Integer (atoi) |  | String_to_Integer_(atoi) |
 | Valid Palindrome | ✅ Solved | Valid_Palindrome |
@@ -43,6 +45,24 @@
 0
 - Not Solved: 0
 0
+
+## 2025-11-15
+- Count the Number of Substrings With Dominant Ones ()
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-11-16
+- Number of Substrings With Only 1s (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
 
 ## Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1
 - Minimum Number of Operations to Make All Array Elements Equal to 1 (⚠️ Attempted)
