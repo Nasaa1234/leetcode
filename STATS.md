@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:        8
+- Total Solved:        9
 - Total Attempted:        1
-- Total Not Solved:        3
+- Total Not Solved:        4
 
 ### 🟦 Status
 
@@ -16,7 +16,9 @@
 | Count the Number of Substrings With Dominant Ones |  | 2025-11-15 |
 | Number of Substrings With Only 1s | ❌ Not Solved | 2025-11-16 |
 | Check If All 1's Are at Least Length K Places Away | ✅ Solved | 2025-11-17 |
+| 1-bit and 2-bit Characters | ✅ Solved | 2025-11-18 |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
+| 56. Merge Intervals | ❌ Not Solved | 56._Merge_Intervals |
 | Minimum Number of Operations to Make All Array Elements Equal to 1 | ⚠️ Attempted | Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1 |
 | String to Integer (atoi) |  | String_to_Integer_(atoi) |
 | Valid Palindrome | ✅ Solved | Valid_Palindrome |
@@ -85,6 +87,15 @@
 - Not Solved: 0
 0
 
+## 2025-11-18
+- 1-bit and 2-bit Characters (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
 ## 338._Counting_Bits
 - 338. Counting Bits (✅ Solved)
 
@@ -93,6 +104,15 @@
 0
 - Not Solved: 0
 0
+
+## 56._Merge_Intervals
+- 56. Merge Intervals (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
 
 ## Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1
 - Minimum Number of Operations to Make All Array Elements Equal to 1 (⚠️ Attempted)
