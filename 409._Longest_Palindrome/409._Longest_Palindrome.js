@@ -11,11 +11,13 @@
 
 
 */
-
-
-
-function solve() {
-  console.log("Solving: 409. Longest Palindrome");
+var longestPalindrome = function (s) {
+  
 }
 
-solve();
+function solve() {
+  console.log(longestPalindrome("abccccdd"))
+  console.log("Solving: 409. Longest Palindrome")
+}
+
+solve()

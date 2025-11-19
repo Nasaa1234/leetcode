@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:        9
+- Total Solved:       10
 - Total Attempted:        1
-- Total Not Solved:        4
+- Total Not Solved:        5
 
 ### 🟦 Status
 
@@ -17,7 +17,9 @@
 | Number of Substrings With Only 1s | ❌ Not Solved | 2025-11-16 |
 | Check If All 1's Are at Least Length K Places Away | ✅ Solved | 2025-11-17 |
 | 1-bit and 2-bit Characters | ✅ Solved | 2025-11-18 |
+| Keep Multiplying Found Values by Two | ✅ Solved | 2025-11-19 |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
+| 409. Longest Palindrome | ❌ Not Solved | 409._Longest_Palindrome |
 | 56. Merge Intervals | ❌ Not Solved | 56._Merge_Intervals |
 | Minimum Number of Operations to Make All Array Elements Equal to 1 | ⚠️ Attempted | Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1 |
 | String to Integer (atoi) |  | String_to_Integer_(atoi) |
@@ -96,6 +98,15 @@
 - Not Solved: 0
 0
 
+## 2025-11-19
+- Keep Multiplying Found Values by Two (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
 ## 338._Counting_Bits
 - 338. Counting Bits (✅ Solved)
 
@@ -104,6 +115,15 @@
 0
 - Not Solved: 0
 0
+
+## 409._Longest_Palindrome
+- 409. Longest Palindrome (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
 
 ## 56._Merge_Intervals
 - 56. Merge Intervals (❌ Not Solved)
