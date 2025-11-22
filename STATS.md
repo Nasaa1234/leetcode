@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:       10
+- Total Solved:       14
 - Total Attempted:        1
-- Total Not Solved:        5
+- Total Not Solved:        7
 
 ### 🟦 Status
 
@@ -10,6 +10,7 @@
 |--------------|--------|--------------|
 | 118. Pascal's Triangle |  | 118._Pascal's_Triangle |
 | 168. Excel Sheet Column Title | ✅ Solved | 168._Excel_Sheet_Column_Title |
+| 1930. Unique Length-3 Palindromic Subsequences | ✅ Solved | 1930._Unique_Length-3_Palindromic_Subsequences |
 | Next Permutation |  | 2025-11-13 |
 | Maximum Number of Operations to Move Ones to the End |  | 2025-11-13 |
 | Increment Submatrices by One | ✅ Solved | 2025-11-14 |
@@ -18,6 +19,11 @@
 | Check If All 1's Are at Least Length K Places Away | ✅ Solved | 2025-11-17 |
 | 1-bit and 2-bit Characters | ✅ Solved | 2025-11-18 |
 | Keep Multiplying Found Values by Two | ✅ Solved | 2025-11-19 |
+| Set Intersection Size At Least Two | ❌ Not Solved | 2025-11-20 |
+| Unique Length-3 Palindromic Subsequences | ✅ Solved | 2025-11-21 |
+| Find Minimum Operations to Make All Elements Divisible by Three | ✅ Solved | 2025-11-22 |
+| 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
+| 258. Add Digits | ✅ Solved | 258._Add_Digits |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
 | 409. Longest Palindrome | ❌ Not Solved | 409._Longest_Palindrome |
 | 56. Merge Intervals | ❌ Not Solved | 56._Merge_Intervals |
@@ -36,6 +42,15 @@
 
 ## 168._Excel_Sheet_Column_Title
 - 168. Excel Sheet Column Title (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 1930._Unique_Length-3_Palindromic_Subsequences
+- 1930. Unique Length-3 Palindromic Subsequences (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
@@ -100,6 +115,51 @@
 
 ## 2025-11-19
 - Keep Multiplying Found Values by Two (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-11-20
+- Set Intersection Size At Least Two (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-11-21
+- Unique Length-3 Palindromic Subsequences (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-11-22
+- Find Minimum Operations to Make All Elements Divisible by Three (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2257._Count_Unguarded_Cells_in_the_Grid
+- 2257. Count Unguarded Cells in the Grid (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 258._Add_Digits
+- 258. Add Digits (✅ Solved)
 
 - Solved: 1
 - Attempted: 0

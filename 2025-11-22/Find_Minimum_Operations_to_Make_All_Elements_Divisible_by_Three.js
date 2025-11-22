@@ -11,11 +11,21 @@
 
 
 */
+var minimumOperations = function (nums) {
+  let result = 0
 
+  for (let n of nums) {
+    result += Math.min(n % 3, 3 - (n % 3))
+  }
 
-
-function solve() {
-  console.log("Solving: Find Minimum Operations to Make All Elements Divisible by Three");
+  return result
 }
 
-solve();
+function solve() {
+  console.log(minimumOperations([1, 2, 3, 4]))
+  console.log(
+    "Solving: Find Minimum Operations to Make All Elements Divisible by Three"
+  )
+}
+
+solve()
