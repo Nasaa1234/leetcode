@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       16
+- Total Solved:       17
 - Total Attempted:        1
 - Total Not Solved:        7
 
@@ -24,6 +24,7 @@
 | Find Minimum Operations to Make All Elements Divisible by Three | ✅ Solved | 2025-11-22 |
 | Greatest Sum Divisible by Three | ✅ Solved | 2025-11-23 |
 | Binary Prefix Divisible By 5 | ✅ Solved | 2025-11-24 |
+| Smallest Integer Divisible by K | ✅ Solved | 2025-11-25 |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
 | 258. Add Digits | ✅ Solved | 258._Add_Digits |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
@@ -162,6 +163,15 @@
 
 ## 2025-11-24
 - Binary Prefix Divisible By 5 (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-11-25
+- Smallest Integer Divisible by K (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
