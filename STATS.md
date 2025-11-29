@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:       17
+- Total Solved:       18
 - Total Attempted:        1
-- Total Not Solved:        7
+- Total Not Solved:       11
 
 ### 🟦 Status
 
@@ -25,6 +25,13 @@
 | Greatest Sum Divisible by Three | ✅ Solved | 2025-11-23 |
 | Binary Prefix Divisible By 5 | ✅ Solved | 2025-11-24 |
 | Smallest Integer Divisible by K | ✅ Solved | 2025-11-25 |
+| Paths in Matrix Whose Sum Is Divisible by K | ❌ Not Solved | 2025-11-26 |
+| Maximum Subarray Sum With Length Divisible by K | ❌ Not Solved | 2025-11-27 |
+| Maximum Number of K-Divisible Components | ❌ Not Solved
+❌ Not Solved | 2025-11-28 |
+| Maximum Number of K-Divisible Components | ❌ Not Solved
+❌ Not Solved | 2025-11-28 |
+| Minimum Operations to Make Array Sum Divisible by K | ✅ Solved | 2025-11-29 |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
 | 258. Add Digits | ✅ Solved | 258._Add_Digits |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
@@ -172,6 +179,45 @@
 
 ## 2025-11-25
 - Smallest Integer Divisible by K (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-11-26
+- Paths in Matrix Whose Sum Is Divisible by K (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-11-27
+- Maximum Subarray Sum With Length Divisible by K (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-11-28
+- Maximum Number of K-Divisible Components (❌ Not Solved
+❌ Not Solved)
+- Maximum Number of K-Divisible Components (❌ Not Solved
+❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 2
+
+## 2025-11-29
+- Minimum Operations to Make Array Sum Divisible by K (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
