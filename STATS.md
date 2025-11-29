@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       18
+- Total Solved:       19
 - Total Attempted:        1
 - Total Not Solved:       11
 
@@ -11,6 +11,7 @@
 | 118. Pascal's Triangle |  | 118._Pascal's_Triangle |
 | 168. Excel Sheet Column Title | ✅ Solved | 168._Excel_Sheet_Column_Title |
 | 1930. Unique Length-3 Palindromic Subsequences | ✅ Solved | 1930._Unique_Length-3_Palindromic_Subsequences |
+| 202. Happy Number | ✅ Solved | 202._Happy_Number |
 | Next Permutation |  | 2025-11-13 |
 | Maximum Number of Operations to Move Ones to the End |  | 2025-11-13 |
 | Increment Submatrices by One | ✅ Solved | 2025-11-14 |
@@ -61,6 +62,15 @@
 
 ## 1930._Unique_Length-3_Palindromic_Subsequences
 - 1930. Unique Length-3 Palindromic Subsequences (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 202._Happy_Number
+- 202. Happy Number (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
