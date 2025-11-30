@@ -29,7 +29,7 @@ def numSub(s: str) -> int:
 
 
 def main():
-    numSub("1101")
+    print(numSub("1101"))
     print("Solving: Number of Substrings With Only 1s")
 
 

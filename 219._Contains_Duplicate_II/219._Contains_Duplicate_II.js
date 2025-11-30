@@ -11,11 +11,25 @@
 
 
 */
+var containsNearbyDuplicate = function (nums, k) {
+  const lastIndex = new Map()
 
+  for (let i = 0; i < nums.length; i++) {
+    if (lastIndex.has(nums[i])) {
+      if (i - lastIndex.get(nums[i]) <= k) {
+        return true
+      }
+    }
+    lastIndex.set(nums[i], i)
+    console.log(lastIndex)
+  }
 
-
-function solve() {
-  console.log("Solving: 219. Contains Duplicate II");
+  return false
 }
 
-solve();
+function solve() {
+  console.log(containsNearbyDuplicate([1, 2, 3, 1], 3))
+  console.log("Solving: 219. Contains Duplicate II")
+}
+
+solve()
