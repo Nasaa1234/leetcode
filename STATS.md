@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:       19
+- Total Solved:       20
 - Total Attempted:        1
-- Total Not Solved:       11
+- Total Not Solved:       12
 
 ### 🟦 Status
 
@@ -33,6 +33,8 @@
 | Maximum Number of K-Divisible Components | ❌ Not Solved
 ❌ Not Solved | 2025-11-28 |
 | Minimum Operations to Make Array Sum Divisible by K | ✅ Solved | 2025-11-29 |
+| Make Sum Divisible by P | ❌ Not Solved | 2025-11-30 |
+| 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
 | 258. Add Digits | ✅ Solved | 258._Add_Digits |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
@@ -228,6 +230,24 @@
 
 ## 2025-11-29
 - Minimum Operations to Make Array Sum Divisible by K (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-11-30
+- Make Sum Divisible by P (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 217._Contains_Duplicate
+- 217. Contains Duplicate (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
