@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       23
+- Total Solved:       25
 - Total Attempted:        1
 - Total Not Solved:       13
 
@@ -35,6 +35,7 @@
 ❌ Not Solved | 2025-11-28 |
 | Minimum Operations to Make Array Sum Divisible by K | ✅ Solved | 2025-11-29 |
 | Make Sum Divisible by P | ❌ Not Solved | 2025-11-30 |
+| Maximum Running Time of N Computers | ✅ Solved | 2025-12-01 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -44,6 +45,7 @@
 | 349. Intersection of Two Arrays | ✅ Solved | 349._Intersection_of_Two_Arrays |
 | 409. Longest Palindrome | ❌ Not Solved | 409._Longest_Palindrome |
 | 56. Merge Intervals | ❌ Not Solved | 56._Merge_Intervals |
+| 73. Set Matrix Zeroes | ✅ Solved | 73._Set_Matrix_Zeroes |
 | Minimum Number of Operations to Make All Array Elements Equal to 1 | ⚠️ Attempted | Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1 |
 | String to Integer (atoi) |  | String_to_Integer_(atoi) |
 | Valid Palindrome | ✅ Solved | Valid_Palindrome |
@@ -259,6 +261,15 @@
 0
 - Not Solved: 1
 
+## 2025-12-01
+- Maximum Running Time of N Computers (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
 ## 217._Contains_Duplicate
 - 217. Contains Duplicate (✅ Solved)
 
@@ -339,6 +350,15 @@
 - Attempted: 0
 0
 - Not Solved: 1
+
+## 73._Set_Matrix_Zeroes
+- 73. Set Matrix Zeroes (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
 
 ## Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1
 - Minimum Number of Operations to Make All Array Elements Equal to 1 (⚠️ Attempted)
