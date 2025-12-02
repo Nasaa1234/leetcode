@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       25
+- Total Solved:       26
 - Total Attempted:        1
 - Total Not Solved:       13
 
@@ -36,6 +36,7 @@
 | Minimum Operations to Make Array Sum Divisible by K | ✅ Solved | 2025-11-29 |
 | Make Sum Divisible by P | ❌ Not Solved | 2025-11-30 |
 | Maximum Running Time of N Computers | ✅ Solved | 2025-12-01 |
+| Count Number of Trapezoids I | ✅ Solved | 2025-12-02 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -263,6 +264,15 @@
 
 ## 2025-12-01
 - Maximum Running Time of N Computers (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-12-02
+- Count Number of Trapezoids I (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
