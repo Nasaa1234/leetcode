@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:       26
+- Total Solved:       28
 - Total Attempted:        1
-- Total Not Solved:       13
+- Total Not Solved:       14
 
 ### 🟦 Status
 
@@ -37,11 +37,14 @@
 | Make Sum Divisible by P | ❌ Not Solved | 2025-11-30 |
 | Maximum Running Time of N Computers | ✅ Solved | 2025-12-01 |
 | Count Number of Trapezoids I | ✅ Solved | 2025-12-02 |
+| Count Number of Trapezoids II | ❌ Not Solved | 2025-12-03 |
+| Count Collisions on a Road | ✅ Solved | 2025-12-04 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
 | 242. Valid Anagram | ❌ Not Solved | 242._Valid_Anagram |
 | 258. Add Digits | ✅ Solved | 258._Add_Digits |
+| 3. Longest Substring Without Repeating Characters | ✅ Solved | 3._Longest_Substring_Without_Repeating_Characters |
 | 338. Counting Bits | ✅ Solved | 338._Counting_Bits |
 | 349. Intersection of Two Arrays | ✅ Solved | 349._Intersection_of_Two_Arrays |
 | 409. Longest Palindrome | ❌ Not Solved | 409._Longest_Palindrome |
@@ -280,6 +283,24 @@
 - Not Solved: 0
 0
 
+## 2025-12-03
+- Count Number of Trapezoids II (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-12-04
+- Count Collisions on a Road (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
 ## 217._Contains_Duplicate
 - 217. Contains Duplicate (✅ Solved)
 
@@ -318,6 +339,15 @@
 
 ## 258._Add_Digits
 - 258. Add Digits (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 3._Longest_Substring_Without_Repeating_Characters
+- 3. Longest Substring Without Repeating Characters (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
