@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       28
+- Total Solved:       29
 - Total Attempted:        1
 - Total Not Solved:       14
 
@@ -39,6 +39,7 @@
 | Count Number of Trapezoids I | ✅ Solved | 2025-12-02 |
 | Count Number of Trapezoids II | ❌ Not Solved | 2025-12-03 |
 | Count Collisions on a Road | ✅ Solved | 2025-12-04 |
+| Count Partitions with Even Sum Difference | ✅ Solved | 2025-12-05 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -294,6 +295,15 @@
 
 ## 2025-12-04
 - Count Collisions on a Road (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-12-05
+- Count Partitions with Even Sum Difference (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
