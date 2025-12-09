@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-- Total Solved:       29
+- Total Solved:       31
 - Total Attempted:        1
-- Total Not Solved:       14
+- Total Not Solved:       15
 
 ### 🟦 Status
 
@@ -40,6 +40,9 @@
 | Count Number of Trapezoids II | ❌ Not Solved | 2025-12-03 |
 | Count Collisions on a Road | ✅ Solved | 2025-12-04 |
 | Count Partitions with Even Sum Difference | ✅ Solved | 2025-12-05 |
+| Count Partitions With Max-Min Difference at Most K | ❌ Not Solved | 2025-12-06 |
+| Count Square Sum Triples | ✅ Solved | 2025-12-08 |
+| Count Special Triplets | ✅ Solved | 2025-12-09 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -304,6 +307,33 @@
 
 ## 2025-12-05
 - Count Partitions with Even Sum Difference (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-12-06
+- Count Partitions With Max-Min Difference at Most K (❌ Not Solved)
+
+- Solved: 0
+0
+- Attempted: 0
+0
+- Not Solved: 1
+
+## 2025-12-08
+- Count Square Sum Triples (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-12-09
+- Count Special Triplets (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
