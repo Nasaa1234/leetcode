@@ -1,7 +1,7 @@
 # LeetCode Progress
 
 - Total Solved:       31
-- Total Attempted:        1
+- Total Attempted:        2
 - Total Not Solved:       15
 
 ### 🟦 Status
@@ -43,6 +43,7 @@
 | Count Partitions With Max-Min Difference at Most K | ❌ Not Solved | 2025-12-06 |
 | Count Square Sum Triples | ✅ Solved | 2025-12-08 |
 | Count Special Triplets | ✅ Solved | 2025-12-09 |
+| Count the Number of Computer Unlocking Permutations | ⚠️ Attempted | 2025-12-10 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -338,6 +339,15 @@
 - Solved: 1
 - Attempted: 0
 0
+- Not Solved: 0
+0
+
+## 2025-12-10
+- Count the Number of Computer Unlocking Permutations (⚠️ Attempted)
+
+- Solved: 0
+0
+- Attempted: 1
 - Not Solved: 0
 0
 
