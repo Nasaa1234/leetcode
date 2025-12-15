@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-- Total Solved:       33
+- Total Solved:       34
 - Total Attempted:        2
 - Total Not Solved:       15
 
@@ -46,6 +46,7 @@
 | Count the Number of Computer Unlocking Permutations | ⚠️ Attempted | 2025-12-10 |
 | Count Covered Buildings | ✅ Solved | 2025-12-11 |
 | Count Mentions Per User | ✅ Solved | 2025-12-12 |
+| Number of Smooth Descent Periods of a Stock | ✅ Solved | 2025-12-15 |
 | 217. Contains Duplicate | ✅ Solved | 217._Contains_Duplicate |
 | 219. Contains Duplicate II | ❌ Not Solved | 219._Contains_Duplicate_II |
 | 2257. Count Unguarded Cells in the Grid | ❌ Not Solved | 2257._Count_Unguarded_Cells_in_the_Grid |
@@ -364,6 +365,15 @@
 
 ## 2025-12-12
 - Count Mentions Per User (✅ Solved)
+
+- Solved: 1
+- Attempted: 0
+0
+- Not Solved: 0
+0
+
+## 2025-12-15
+- Number of Smooth Descent Periods of a Stock (✅ Solved)
 
 - Solved: 1
 - Attempted: 0
